@@ -6,7 +6,7 @@ body {
 h1 {
 	color: black;
 	text-align: center;
-	font-size: 34px;
+	font-size: 40px;
 	font-weight: bold;
 }
 
@@ -20,12 +20,15 @@ p {
 	background-color: white;
 	border: 5px #006400;
 	padding: 20px;
+	margin: 20px;
 }
 
 #blue{
 	font-size: white;
 	background-color: #00008B;
 	padding: 10px;
+	margin: 20px;
+	border: 5px black;
 }
 
 h2 {
@@ -36,18 +39,25 @@ h2 {
 
 ol {
 	list-style-type: decimal-leading-zero;
+	margin-left: 20px;
+}
+
+a {
+	font-size: 14px;
+	font-color: #800080;
 }
 
 h3 {
 	color: black;
 	text-align: left;
-	font-size: 22px;
+	font-size: 18px;
 }
 
 table, th, td {
 	border: 1px solid;
 	padding: 5px;
 	background-color: white;
+	font-size: 14px;
 }
 
 th {
