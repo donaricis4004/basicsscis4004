@@ -18,7 +18,7 @@ p {
 #paragraph2{
 	background-color: white;
 	border: 5px solid #006400;
-	padding: 60px 0 20px 20px;
+	padding: 20px 0 20px 60px;
 	margin: 20px;
 	font-size: 14px;
 	width: 55%;
@@ -47,7 +47,7 @@ ol {
 	margin-left: 0;
 	padding-left: 0;
 	text-align: left;
-	margin: 16px 0;
+	margin: 16px 5;
 }
 
 a {
