@@ -19,7 +19,7 @@ p {
 	background-color: white;
 	border: 5px solid #006400;
 	padding: 20px;
-	margin: 20px 0;
+	margin: 20px;
 	font-size: 14px;
 	width: 55%;
 	line-height: 2.5;
@@ -29,7 +29,7 @@ p {
 	color: white;
 	background-color: #00008B;
 	padding: 10px;
-	margin: 20px;
+	margin: 20px 0;
 	border: 5px solid black;
 	font-size: 14px;
 	text-align: left;
@@ -44,6 +44,7 @@ h2 {
 ol {
 	list-style-type: decimal-leading-zero;
 	margin-left: 0;
+	padding-left: 0;
 	text-align: left;
 }
 
