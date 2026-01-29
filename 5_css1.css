@@ -1,0 +1,49 @@
+body {
+	background-color: lightblue;
+	font-family: 'times new roman', sans-serif;
+}
+
+h1 {
+	color: black;
+	text-align: center;
+	font-size: 20px;
+}
+
+p {
+	color: black;
+	font-size: 14px;
+}
+
+#paragraph2{
+	color: black;
+	background-color: white;
+	border: dark green;
+	padding: 60px;
+}
+
+#blue{
+	font-size: white;
+	background-color: dark blue;
+	padding: 40px;
+}
+
+h2 {
+	color: black;
+	text-align: center;
+	font-size: 18px;
+}
+
+h3 {
+	color: black;
+	text-align: center;
+	font-size: 16px;
+}
+
+table, th, td {
+	border: 1px solid;
+	padding: 10px;
+}
+
+th {
+	background-color: light grey;
+}
