@@ -20,10 +20,10 @@ p {
 	border: 5px solid #006400;
 	padding: 20px;
 	margin: 20px;
-	font-size: 14;
-	width: 60%;
-	line-height: 2.5;
-	padding-left: 10;
+	font-size: 14px;
+	width: 55%;
+	line-height: 1.5;
+	padding-left: 10px;
 }
 
 .blue{
@@ -32,8 +32,8 @@ p {
 	padding: 10px;
 	margin: 20px;
 	border: 5px solid black;
-	font-size: 14 px;
-	padding-left: 10;
+	font-size: 14px;
+	padding-left: 10px;
 }
 
 h2 {
