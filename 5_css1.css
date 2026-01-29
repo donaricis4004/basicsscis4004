@@ -22,7 +22,7 @@ p {
 	margin: 20px 0;
 	font-size: 14px;
 	width: 55%;
-	line-height: 2.3;
+	line-height: 2.5;
 }
 
 .blue{
@@ -32,6 +32,7 @@ p {
 	margin: 20px;
 	border: 5px solid black;
 	font-size: 14px;
+	text-align: left;
 }
 
 h2 {
@@ -43,6 +44,7 @@ h2 {
 ol {
 	list-style-type: decimal-leading-zero;
 	margin-left: 0;
+	text-align: left;
 }
 
 a {
