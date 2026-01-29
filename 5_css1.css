@@ -6,7 +6,7 @@ body {
 h1 {
 	color: black;
 	text-align: center;
-	font-size: 40px;
+	font-size: 50px;
 	font-weight: bold;
 }
 
@@ -20,16 +20,16 @@ p {
 	border: 5px solid #006400;
 	padding: 20px;
 	margin: 20px;
-	font-size: 24px;
+	font-size: 1;
 }
 
 .blue{
-	font-size: white;
+	color: white;
 	background-color: #00008B;
 	padding: 10px;
 	margin: 20px;
 	border: 5px solid black;
-	font-size: 24 px;
+	font-size: 14 px;
 }
 
 h2 {
@@ -40,6 +40,8 @@ h2 {
 
 ol {
 	list-style-type: decimal-leading-zero;
+	margin-left: 0;
+	padding-left: 0;
 }
 
 a {
