@@ -19,11 +19,10 @@ p {
 	background-color: white;
 	border: 5px solid #006400;
 	padding: 20px;
-	margin: 20px;
+	margin: 20px 0;
 	font-size: 14px;
 	width: 55%;
-	line-height: 1.5;
-	padding-left: 10px;
+	line-height: 2;
 }
 
 .blue{
